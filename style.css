@@ -19,7 +19,6 @@ body {
     width: 100vw;
     min-height: 100vh;
     padding: 50px;
-
 }
 
 .container.show-nav {
@@ -78,11 +77,11 @@ body {
 
 }
 
-a:link {
+li a:link {
     color: #fff;
   }
  
-  a:hover {
+li a:hover {
     color: aqua;
   }
  
