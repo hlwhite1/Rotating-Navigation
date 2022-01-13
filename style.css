@@ -81,15 +81,11 @@ body {
 a:link {
     color: #fff;
   }
-
+ 
   a:hover {
     color: aqua;
   }
-  
-  a:active {
-    color: burlywood;
-  }
-
+ 
 nav {
     position: fixed;
     bottom: 40px;
